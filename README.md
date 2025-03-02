@@ -12,4 +12,7 @@ MIS 637: Data Analytics and Machine Learning
 CS 573: Fundamentals of Cybersecurity
 AA 551: Engineering Python
 
-CHECKOUT RELEASES
+CHECKOUT RELEASES HERE:
+
+https://github.com/pbsvk/Stevens-Institute-of-Technology_CS-Courses/releases/download/Courses/Master.s.Coursework.zip
+
